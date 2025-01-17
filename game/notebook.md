@@ -6,7 +6,7 @@
 - [ ] The Innkeeper
 
 ## Weapons
-- [ ] Crystal Vase
+- [X] Crystal Vase
 - [ ] Garden Shears
 - [ ] Kitchen Knife
 
