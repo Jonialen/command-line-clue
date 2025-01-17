@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Journalist
+- [X] The Journalist
 - [ ] The Carpenter
 - [ ] The Innkeeper
 
