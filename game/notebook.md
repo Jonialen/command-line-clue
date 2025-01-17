@@ -3,11 +3,11 @@
 ## Suspects
 - [X] The Journalist
 - [ ] The Carpenter
-- [ ] The Innkeeper
+- [X] The Innkeeper
 
 ## Weapons
 - [X] Crystal Vase
-- [ ] Garden Shears
+- [X] Garden Shears
 - [ ] Kitchen Knife
 
 ## Notes
